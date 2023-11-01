@@ -1,4 +1,4 @@
-package com.example.clevelink
+package io.github.clevelink
 
 import io.flutter.embedding.android.FlutterActivity
 
